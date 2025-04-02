@@ -1,0 +1,66 @@
+[2] E-Waste Management Using Machine Learning : This paper introduces an ML-based framework for e-waste management, employing gradient boosting regression trees and neural networks to predict weekly e-waste generation in urban sub-segments. It integrates various data-driven techniques to enhance prediction accuracy and supports long-term e-waste management strategies in smart city environments. The proposed approach achieves a high accuracy of 99.1% with the best-performing algorithm.
+
+[Reference] Li, Haomiao, Zian Jin, and Sujatha Krishnamoorthy. "E-waste management using machine learning." Proceedings of the 6th International Conference on Big Data and Computing. 2021.
+
+[3] Transfer learning-based method for automated e-waste recycling in smart cities : This study explores the role of Artificial Intelligence in smart e-waste recycling, emphasizing the need for automated classification to manage the growing e-waste stream. Using transfer learning, specifically fine-tuning AlexNet on a small smartphone dataset, the model achieves 98% accuracy with Stochastic Gradient Descent and optimized learning rates. The results highlight the effectiveness of AI in reducing sorting errors and promoting sustainable recycling in circular smart cities.
+
+[Reference] Abou Baker, Nermeen, Paul Szabo-Müller, and Uwe Handmann. "Transfer learning-based method for automated e-waste recycling in smart cities." EAI endorsed transactions on smart cities 5.16 (2021): e1-e1.
+
+[4] Circular Economy and the Recycling of E-Waste : E-waste refers to discarded electronic devices and components, including laptops, smartphones, and circuit boards, whose rapid technological advancements lead to frequent replacements, increasing global e-waste production. Improper disposal poses severe environmental and health risks due to hazardous materials like lead and mercury, which contaminate soil, water, and air. Effective e-waste management relies on recycling and responsible disposal to recover valuable materials, reducing the need for raw material extraction. Various regulations, take-back programs, and public awareness initiatives promote sustainable practices, encouraging manufacturers to design eco-friendly products with longer lifespans and recyclability. The circular economy offers a sustainable solution by emphasizing reuse, recycling, and responsible disposal, ensuring minimal environmental impact.
+
+[reference] Sarkhoshkalat, Mohammad Mahdi, et al. "Circular Economy and the Recycling of E-Waste." New Technologies for Energy Transition Based on Sustainable Development Goals: Factors Contributing to Global Warming. Singapore: Springer Nature Singapore, 2024. 319-354.
+
+[5] Integrated Management of Electronic and Electric Waste (EEW) with the Application of Artificial Intelligence  : The rapid advancement of technology has led to increased automation and widespread use of electrical and electronic equipment, resulting in a shorter product life cycle and a surge in electronic waste. AI-powered systems, utilizing transfer learning and convolutional neural networks, enable automated identification, collection, and classification of e-waste with high accuracy. These technologies enhance efficiency in e-waste recovery and recycling, promoting sustainable waste management.
+
+[Reference] Russo, Giorgio L. "Integrated Management of Electronic and Electric Waste (EEW) with the Application of Artificial Intelligence (AI): Future and Challenges." Advanced Technologies for Solid, Liquid, and Gas Waste Treatment. CRC Press, 2023. 23-40.
+
+[6] Optimizing E-waste management: Deep learning classifiers for effective planning:
+This study explores the use of deep learning, particularly Adaptive V3 and Federated Learning with Inception V3, to optimize e-waste collection and classification. By leveraging datasets and performance metrics, the proposed method achieves 98.9% accuracy, outperforming traditional models. This approach enhances e-waste management, promoting sustainability through efficient waste classification and strategic planning.
+
+[Reference] Selvakanmani, S., et al. "Optimizing E-waste management: Deep learning classifiers for effective planning." Journal of Cleaner Production 443 (2024): 141021.
+
+[7] Identification and Separation of E-Waste Components Using Modified Image Recognition Model Based on Advanced Deep Learning Tools : The rapid growth of e-waste, reaching 57.4 million tons in 2021, poses significant challenges in collection, sorting, and recycling. Efficient recycling is crucial for resource recovery, environmental protection, and economic benefits, particularly for high-value components like printed circuit boards (PCBs). Traditional manual separation is unsustainable, making automation essential. This study proposes a deep learning-based image recognition model integrated with a computer sorting system to classify e-waste components (PCBs, Steel, Copper, Aluminum, Polymers). Experimental results confirm high accuracy, enhancing e-waste recycling efficiency while reducing human intervention for a safer, more sustainable process.
+
+[Reference] Singh, Rahulkumar Sunil, et al. "Identification and Separation of E‐Waste Components Using Modified Image Recognition Model Based on Advanced Deep Learning Tools." Technology Innovation for the Circular Economy: Recycling, Remanufacturing, Design, Systems Analysis and Logistics (2024): 115-127.
+
+[8] Deep Learning System for E-Waste Management : This proposal presents a deep learning-based system for e-waste management to address growing urban waste challenges. Traditional methods struggle with rising waste volumes, leading to pollution and inefficiencies. The proposed AI-driven approach integrates a convolutional neural network (CNN) built using Keras and TensorFlow for image-based e-waste classification, achieving 83% accuracy. Developed in Python, the system includes a GUI for user interaction, enhancing waste collection and disposal. By leveraging AI, the model aims to optimize resource utilization and promote cleaner, more sustainable urban environments.
+
+
+[Reference] Oise, Godfrey Perfectson, and Susan Konyeha. "Deep learning system for e-waste management." Engineering Proceedings 67.1 (2024): 66.
+
+[9] Deep Learning-Based Approaches for Electronic Waste Detection and Classification: A Step Toward Sustainable Recycling : This study explores deep learning-based methods for classifying e-waste to enhance recycling efficiency and sustainability. Traditional manual classification methods are time-consuming, costly, and error-prone, necessitating AI-driven solutions. The research employs three feature extraction architectures (EfficientNetB0, Inceptionv3, and AlexNet) and five classification algorithms to detect e-waste types. Performance evaluation using Accuracy, Precision, Recall, and F1-Score shows that EfficientNetB0+SVM, Inceptionv3+SVM, and Inceptionv3+LR achieved the highest accuracy of 97%. The study demonstrates the effectiveness of deep learning in e-waste management, offering innovative and practical solutions.
+
+[Reference] BAYDOĞAN, Merve PARLAK. "Deep Learning-Based Approaches for Electronic Waste Detection and Classification: A Step Toward Sustainable Recycling." JOURNAL OF MATERIALS AND ELECTRONIC DEVICES 5.1 (2024): 49-54.
+
+[10] Sustainable resilient E-waste management in London: A circular economy perspective: This study examines the role of the circular economy (CE) in enhancing the sustainability and resilience of e-waste management, focusing on London’s ambitious sustainability targets. Using a dynamic Bayesian Network (dynamic BN) model, the research evaluates the city's e-waste operation management, yielding a Resilience Index (RI) of 0.5424. The findings highlight the importance of supply chain diversification and transparency in strengthening sustainability and resilience. These insights equip policymakers with valuable data to improve e-waste management strategies, ensuring long-term environmental and economic benefits.
+
+[reference] Moradi, Rosita, et al. "Sustainable resilient E-waste management in London: A circular economy perspective." Heliyon 10.13 (2024).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

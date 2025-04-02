@@ -1,0 +1,2 @@
+https://link.springer.com/chapter/10.1007/978-3-031-58795-5_16 (Transfer Learning Application for an Electronic Waste Image Classification System)
+https://www.nature.com/articles/s41598-024-62003-4 (Enhancing trash classification in smart cities using federated deep learning)

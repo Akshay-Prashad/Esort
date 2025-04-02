@@ -1,0 +1,12 @@
+names:
+- CPU
+- GPU
+- HDD
+- MOTHERBOARD
+- PSU
+- RAM
+- SSD
+- Computer-Parts
+nc: 8
+train: C:\Users\aksha\Desktop\Esort\final model\yolo\yolo_dataset\train
+val: C:\Users\aksha\Desktop\Esort\final model\yolo\yolo_dataset\val
